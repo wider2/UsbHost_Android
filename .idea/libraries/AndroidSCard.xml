@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="AndroidSCard">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/scardcomlibrary/libs/AndroidSCard.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

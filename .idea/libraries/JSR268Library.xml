@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="JSR268Library">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/scardcomlibrary/libs/JSR268Library.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

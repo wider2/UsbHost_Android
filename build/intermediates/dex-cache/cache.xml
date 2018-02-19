@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="D:\firebase\UsbHostExample2\scardcomlibrary\build\intermediates\bundles\default\libs\JSR268Library.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b83e064a7bbd7041ff0647c77069ce6c20f917bc">
+        <dex dex="D:\firebase\UsbHostExample2\app\build\intermediates\pre-dexed\debug\JSR268Library_10fb81eb275061cd4cc217a243ed3a14e5cbcf0a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\firebase\UsbHostExample2\scardcomlibrary\build\intermediates\bundles\default\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="ac1bc78d11e00ceb8f366ae67a98fd64b1c13e7e">
+        <dex dex="D:\firebase\UsbHostExample2\app\build\intermediates\pre-dexed\debug\classes_1ee702676d4e18bc3ddbfe6c0adf9287a315160a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\firebase\UsbHostExample2\scardcomlibrary\build\intermediates\bundles\default\libs\acssmc-1.1.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="dbdfad5604da43a666610b1ccd43aaa0562881ed">
+        <dex dex="D:\firebase\UsbHostExample2\app\build\intermediates\pre-dexed\debug\acssmc-1.1.3_c1978b52ad4aa52437bdb12a90922de0a7a08247.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\firebase\UsbHostExample2\scardcomlibrary\build\intermediates\bundles\default\libs\AndroidSCard.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9d733938b65c27443d41890b5aa67f8967f565f3">
+        <dex dex="D:\firebase\UsbHostExample2\app\build\intermediates\pre-dexed\debug\AndroidSCard_786b4b85b935935e3c1f576708fee196a49c7d98.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\firebase\UsbHostExample2\scardcomlibrary\build\intermediates\bundles\default\libs\AndroidSCard.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="9d733938b65c27443d41890b5aa67f8967f565f3">
+        <dex dex="D:\firebase\UsbHostExample2\app\build\intermediates\pre-dexed\debug\AndroidSCard_786b4b85b935935e3c1f576708fee196a49c7d98.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\firebase\UsbHostExample2\scardcomlibrary\build\intermediates\bundles\default\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ac1bc78d11e00ceb8f366ae67a98fd64b1c13e7e">
+        <dex dex="D:\firebase\UsbHostExample2\app\build\intermediates\pre-dexed\debug\classes_1ee702676d4e18bc3ddbfe6c0adf9287a315160a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\firebase\UsbHostExample2\scardcomlibrary\build\intermediates\bundles\default\libs\acssmc-1.1.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="dbdfad5604da43a666610b1ccd43aaa0562881ed">
+        <dex dex="D:\firebase\UsbHostExample2\app\build\intermediates\pre-dexed\debug\acssmc-1.1.3_c1978b52ad4aa52437bdb12a90922de0a7a08247.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Alexei\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="D:\firebase\UsbHostExample1\app\build\intermediates\pre-dexed\debug\support-v4-18.0.0_f59f5336dfff96611c0c1c5cebe0a85fbba1c3b6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\firebase\UsbHostExample2\scardcomlibrary\build\intermediates\bundles\default\libs\JSR268Library.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b83e064a7bbd7041ff0647c77069ce6c20f917bc">
+        <dex dex="D:\firebase\UsbHostExample2\app\build\intermediates\pre-dexed\debug\JSR268Library_10fb81eb275061cd4cc217a243ed3a14e5cbcf0a.jar" />
+    </item>
+
+</items>
